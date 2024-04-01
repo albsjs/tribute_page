@@ -1,0 +1,23 @@
+*{
+background:#5f6b7f;
+} 
+#image{
+  max-width: 100%;
+  height: auto;
+  display:block;
+}
+.div > .img {
+  height: auto;
+  margin: 0 auto;
+  display:block;
+
+}
+
+.p{
+  margin: 0 auto;
+  text-align:center;
+}
+.title{
+  text-align:center;
+  padding: 10 10;
+} 
